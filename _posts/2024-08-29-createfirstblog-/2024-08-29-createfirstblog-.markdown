@@ -3,7 +3,6 @@ layout:       post
 title:        "欢迎大家访问我的博客"
 subtitle:     "WECHAT? BLOG!"
 author:       "贺轩翥"
-header-style: text
 header-img:   "img/post-bg-nextgen-web-pwa.jpg"
 catalog:      true
 tags:
