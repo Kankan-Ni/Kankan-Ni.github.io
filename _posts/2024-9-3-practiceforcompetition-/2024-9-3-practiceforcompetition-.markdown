@@ -20,7 +20,7 @@ tags:
 
 斟酌之下我们选择了穿越沙漠游戏。
 
-题目在网上都有，这里给一个参考连接(https://blog.csdn.net/weixin_43292788/article/details/131527356)
+题目在网上都有，这里给一个参考连接<https://blog.csdn.net/weixin_43292788/article/details/131527356>
 
 ### 第一问解题
 
